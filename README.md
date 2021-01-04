@@ -3,7 +3,7 @@
 
 ## CoderMichelle 
 I am Michelle, I am new to Coding, this is my first github and I am learning. I am open-minded and committed.
-My Github is at https://codermichelle.github.io/reading-notes/
+My Github is https://codermichelle.github.io/reading-notes/
 
 
 
