@@ -17,6 +17,5 @@ My Reading Notes
 
 ## If I make a mistake it proves that I put in an effort and trying a new strategy will give me a way foreward.
 
-
 I am Michelle, I am new to Coding and I am learning. I am open-minded and committed.
 My Github is at https://codermichelle.github.io/reading-notes/
