@@ -6,7 +6,6 @@
 
 
 
-
 ## MY GROWTH MINDSET REMINDERS
 
 ## *Intelligence Can Be Developed*
