@@ -1,10 +1,10 @@
-# Author
-CoderMichelle 
+# CoderMichelle 
 
-## Description
-My Reading Notes
 
-## Growth Mindset. Here are my 3 reminders:
+## My Reading Notes
+
+
+## MY GROWTH MINDSET REMINDERS
 
 ## *Intelligence Can Be Developed*
 
