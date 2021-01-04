@@ -19,7 +19,7 @@
 * Find lessons and inspriation in the success of others
 
 ## If I make a mistake it proves that I put in an effort and trying a new strategy will give me a way foreward.
-!https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api
+![I DID IT!](https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api)
 
 I am Michelle, I am new to Coding and I am learning. I am open-minded and committed.
 My Github is at https://codermichelle.github.io/reading-notes/
