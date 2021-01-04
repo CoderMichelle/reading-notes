@@ -4,9 +4,9 @@ CoderMichelle
 ## Description
 My Reading Notes
 
-### Growth Mindset. Here are my 3 reminders:
+## Growth Mindset. Here are my 3 reminders:
 
-## Intelligence Can Be Developed
+## *Intelligence Can Be Developed*
 
 ## REMEMBER TO ALWAYS
 * Embrace Challenges
