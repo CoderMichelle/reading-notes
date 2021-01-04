@@ -8,7 +8,7 @@ My Reading Notes
 
 ## Intelligence Can Be Developed
 
-### REMEMBER TO ALWAYS
+## REMEMBER TO ALWAYS
 * Embrace Challenges
 * Persist in the face of setbacks
 * See effort as the path to mastery
