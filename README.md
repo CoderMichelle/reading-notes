@@ -22,5 +22,5 @@ My Github is https://codermichelle.github.io/reading-notes/
 ## If I make a mistake it proves that I put in an effort and trying a new strategy will give me a way foreward.
 ![I DID IT!](https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api)
 
-[03GitNotes.nd](https://github.com/CoderMichelle/reading-notes)
+[03GitNotes.nd](https://github.com/CoderMichelle/reading-notes/main/03GitNotes.)
 
