@@ -18,3 +18,5 @@ extensions available when you need them.
 - file.exe - an executable file, or program.
 - file.txt - a plain text file.
 - file.png, file.gif, file.jpg - an image.
+
+ [my link](https://codermichelle.github.io/Summary02.md)
