@@ -1,12 +1,12 @@
-#BUILDING A WEBSITE
--It's important to know who you are targeting/your audience, why they would come to your site, and what they are looking for
--Using Site Maps helps
--Wireframes allow you to organize the info
--Using visual hiarchy and differentiate between pieces of info using size, color, and style
--It's all about getting your message across using design
--Use grouping and similarity to help
--Think Symmantics, and don't do DIVs
--Build a model/sketch mock up first so you have an idea of where you are grouping
--HTML pages are text documents
--HTML uses *tags* or *elements* to describe the structure of pages
--Attributes made up of a name and a value tell us more about the contents of the elements
+# BUILDING A WEBSITE
+- It's important to know who you are targeting/your audience, why they would come to your site, and what they are looking for
+- Using Site Maps helps
+- Wireframes allow you to organize the info
+- Using visual hierarchy and differentiate between pieces of info using size, color, and style
+- It's all about getting your message across using design
+- Use grouping and similarity to help
+- Think Symmantics, and don't do DIVs
+- Build a model/sketch mock up first so you have an idea of where you are grouping
+- HTML pages are text documents
+- HTML uses *tags* or *elements* to describe the structure of pages
+- Attributes made up of a name and a value tell us more about the contents of the elements
