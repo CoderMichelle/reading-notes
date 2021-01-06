@@ -23,4 +23,7 @@ My Github is https://codermichelle.github.io/reading-notes/
 ![I DID IT!](https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api)
 
 [03GitNotes.md](03GitNotes.md)
+[03HTMLNotes.md](03HTMLNotes.md)
+
+
 
