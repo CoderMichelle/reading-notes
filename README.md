@@ -17,12 +17,9 @@ My Github is https://codermichelle.github.io/reading-notes/
 [Update README](README.md)
 [03HTMLNotes](03HTMLNotes.md)
 [GROWTH MIND REVISED](GROWTH-MIND.md)
-[ReadNotes05]
-(ReadNotes05.md)
-[ReadNotes06a]
-(ReadNotes06a.md)
-[ReadNotes06b]
-(ReadingNotes06b.md)
+[ReadNotes05](ReadNotes05.md)
+[ReadNotes06a](ReadNotes06a.md)
+[ReadNotes06b](ReadNotes06a.md)
 [ReadingNotes(07)](ReadingNotes(07).md)
 [ReadingNotes(08)](ReadingNotes(08).md)
 
