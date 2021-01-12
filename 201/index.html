@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Is not rendered in the browser but is there to provide meta data about the content we are showing-->
+  <title>Class 01</title>
+  <style>
+    /* starts with an element to select, key value pairs for specific lelment properties*/
+    body {
+      background-color: rgb(247, 225, 229);
+    }
+
+    h1 {
+      background-color: blueviolet;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      border: 2px solid coral;
+    }
+
+    p {
+      padding: 1rem;
+      border: 1px solid black;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+
+  </header>
+  <main>
+    <h1>Class 1 Lab</h1>
+    <p style="color:blue;background-color: yellow;">What is your name?</p>
+    <p style="color:rgb(7, 70, 64);background-color:thistle;">What is your favorite color?</p>
+    <p style="color:orchid;background-color:powderblue  ;">What is your birthdate?</p>
+    <p style="color: rgb(34, 30, 25);background-color: rgb(172, 107, 107);">What is your favorite flower?</p>
+  </main>
+  <footer>
+
+  </footer>
+  <!--Includes all the things that we see on the screen -->
+
+  <script>
+    //Get data from the user
+    var name = prompt('What is your name?');
+    var response1 = 'Your name is: ';
+
+    // display data to the user
+    alert(response1 + name);
+
+    console.log('The users name is ' + name);
+
+    var color = prompt('What is your favorite color?');
+    console.log('The user\'s favorite color is ' + color);
+
+    alert('Your favorite color is ' + color);
+
+    var dob = prompt('What is your birthdate?');
+
+    console.log('The users birthday is' + dob);
+
+    var flower = prompt('What is your favorite flower?');
+    console.log(name + '\`s favorite flower is ' + flower);
+
+    alert('Greetings, ' + name + ' ! I too like ' + color + ' ' + flower + 's' + ' on my Birthday!');
+  </script>
+</body>
+
+</html>
