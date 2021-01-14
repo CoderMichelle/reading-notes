@@ -34,7 +34,7 @@ My Github is https://codermichelle.github.io/reading-notes/
 + [ReadNotes05](102/ReadNotes05.md)
 + [ReadNotes06a](102/ReadNotes06a.md)
 + [ReadNotes06b](102/ReadNotes06a.md)
-+ [ReadingNotes(07)]102/(ReadingNotes(07).md)
++ [ReadingNotes(07)](102/ReadingNotes(07).md)
 + [ReadingNotes(08)](102/ReadingNotes(08).md)
 
 
