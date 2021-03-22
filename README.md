@@ -3,7 +3,7 @@
 ## CoderMichelle
 
 I am Michelle, I am new to Coding and this is my first github. I am learning, I am open-minded and committed.
-My Github is "https://codermichelle.github.io/reading-notes/"
+[My Github is https://codermichelle.github.io/reading-notes/](https://codermichelle.github.io/reading-notes/)
 
 ## Code 301 Internediate Software Development
 
@@ -41,7 +41,7 @@ My Github is "https://codermichelle.github.io/reading-notes/"
 + [201-session14](201/201ReadingNotes14.md)
 + [201-session15](201/201ReadingNotes15.md)
 
-[I DID IT!](https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api)
+![I DID IT!]("https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api")
 
 ## Code 102 Intor to Software Development
 
@@ -54,5 +54,5 @@ My Github is "https://codermichelle.github.io/reading-notes/"
 + [ReadNotes05](102/ReadNotes05.md)
 + [ReadNotes06a](102/ReadNotes06a.md)
 + [ReadNotes06b](102/ReadNotes06b.md)
-+ [ReadingNotes(07)](102/ReadingNotes(07).md)
-+ [ReadingNotes(08)](102/ReadingNotes(08).md)
++ [ReadingNotes07](102/ReadingNotes(07).md)
++ [ReadingNotes08](102/ReadingNotes(08).md)
