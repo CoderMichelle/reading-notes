@@ -7,21 +7,21 @@ My Github is "https://codermichelle.github.io/reading-notes/"
 
 ## Code 301 Internediate Software Development
 
-+[301-ReadClass01](301/301ReadingNotes01.md) 
-+[301-ReadClass02](301/301ReadingNotes02.md) 
-+[301-ReadClass03](301/301ReadingNotes03.md) 
-+[301-ReadClass04](301/301ReadingNotes04.md) 
-+[301-ReadClass05](301/301ReadingNotes05.md) 
-+[301-ReadClass06](301/301ReadingNotes06.md) 
-+[301-ReadClass07](301/301ReadingNotes07.md) 
-+[301-ReadClass08](301/301ReadingNotes08.md) 
-+[301-ReadClass09](301/301ReadingNotes09.md) 
-+[301-ReadClass10](301/301ReadingNotes10.md) 
-+[301-ReadClass11](301/301ReadingNotes11.md) 
-+[301-ReadClass12](301/301ReadingNotes12.md) 
-+[301-ReadClass13](301/301ReadingNotes13.md) 
-+[301-ReadClass14](301/301ReadingNotes14.md) 
-+[301-ReadClass15](301/301ReadingNotes15.md) 
++ [301-ReadClass01](301/301ReadingNotes01.md)  
++ [301-ReadClass02](301/301ReadingNotes02.md)  
++ [301-ReadClass03](301/301ReadingNotes03.md)  
++ [301-ReadClass04](301/301ReadingNotes04.md)  
++ [301-ReadClass05](301/301ReadingNotes05.md)  
++ [301-ReadClass06](301/301ReadingNotes06.md)  
++ [301-ReadClass07](301/301ReadingNotes07.md)  
++ [301-ReadClass08](301/301ReadingNotes08.md)  
++ [301-ReadClass09](301/301ReadingNotes09.md)  
++ [301-ReadClass10](301/301ReadingNotes10.md)  
++ [301-ReadClass11](301/301ReadingNotes11.md)  
++ [301-ReadClass12](301/301ReadingNotes12.md)  
++ [301-ReadClass13](301/301ReadingNotes13.md)  
++ [301-ReadClass14](301/301ReadingNotes14.md)  
++ [301-ReadClass15](301/301ReadingNotes15.md)  
 
 ## Code 201 Foundations of Software Development
 
