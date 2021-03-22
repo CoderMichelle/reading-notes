@@ -41,7 +41,7 @@ I am Michelle, I am new to Coding and this is my first github. I am learning, I 
 + [201-session14](201/201ReadingNotes14.md)
 + [201-session15](201/201ReadingNotes15.md)
 
-![I DID IT!]("https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api")
+![I DID IT!](https://tse1.mm.bing.net/th?id=OIP.NfCHxIRianQ_dO3WfdbtKgHaE8&pid=Api)
 
 ## Code 102 Intor to Software Development
 
