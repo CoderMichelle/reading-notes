@@ -1,4 +1,4 @@
-## State and Life Cycle
+ State and Life Cycle
 
 To update the UI in a singlefunction, use classes:
 
@@ -6,8 +6,8 @@ class Clock extends React.Component {
   render() {
     return (
       <div>
-        <h2>Hello, world!</h2>
-        <h3>It is {this.props.date.toLocaleTimeString()}.</h3>
+        <h1>Hello, world!</h1>
+        <h2>It is {this.props.date.toLocaleTimeString()}.</h2>
       </div>
     );
   }
@@ -29,7 +29,7 @@ Using State:
 
     State updates are merged
 
-## Handling Events
+Handling Events
 
 In React, you don't need to call addEventListener to add listeners to a DOm element after it is created, just provide a listener when element is initially rendered.
 
@@ -41,11 +41,11 @@ You can render different components based on the state of your application using
 One of these will be called:
 
 function UserGreeting(props) {
-  return <h2>Welcome back!</h2>;
+  return <h1>Welcome back!</h1>;
 }
 
 function GuestGreeting(props) {
-  return <h2>Please sign up.</h2>;
+  return <h1>Please sign up.</h1>;
 }
 
 based on this:
